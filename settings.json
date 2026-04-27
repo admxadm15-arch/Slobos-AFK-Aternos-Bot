@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "hard_voime",
     "password": "",
-    "type": "offline"
+    "type": "onlline"
   },
   "server": {
     "ip": "hard_void.aternos.me",
     "port": 30985,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
